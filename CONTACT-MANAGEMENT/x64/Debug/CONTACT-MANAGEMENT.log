@@ -1,0 +1,6 @@
+﻿  CONTACT-MANAGEMENT.cpp
+C:\Users\omerk\Downloads\CONTACT-MANAGEMENT\CONTACT-MANAGEMENT.cpp(92,6): warning C4101: 'ch': unreferenced local variable
+C:\Users\omerk\Downloads\CONTACT-MANAGEMENT\CONTACT-MANAGEMENT.cpp(406,12): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\omerk\Downloads\CONTACT-MANAGEMENT\CONTACT-MANAGEMENT.cpp(333): warning C4715: 'contact_tree::findRecursive': not all control paths return a value
+  LINK : C:\Users\omerk\Downloads\CONTACT-MANAGEMENT\x64\Debug\CONTACT-MANAGEMENT.exe not found or not built by the last incremental link; performing full link
+  CONTACT-MANAGEMENT.vcxproj -> C:\Users\omerk\Downloads\CONTACT-MANAGEMENT\x64\Debug\CONTACT-MANAGEMENT.exe
