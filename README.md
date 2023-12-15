@@ -50,7 +50,7 @@ This is a simple Contact Management System (CMS) written in C++. The program all
 Feel free to use, modify, and contribute to this Contact Management System!
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/OmerKhan24/Contact-Management-System/blob/main/LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/OmerKhan24/Contact-Management-System/blob/main/LICENSE) file for details.
 
 ---
 
