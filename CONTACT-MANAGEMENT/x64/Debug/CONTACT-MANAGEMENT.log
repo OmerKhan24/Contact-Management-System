@@ -1,0 +1,5 @@
+﻿  CONTACT-MANAGEMENT.cpp
+F:\FAST WORK\THRID SEM\CONTACT-MANAGEMENT\CONTACT-MANAGEMENT.cpp(94,6): warning C4101: 'ch': unreferenced local variable
+F:\FAST WORK\THRID SEM\CONTACT-MANAGEMENT\CONTACT-MANAGEMENT.cpp(408,12): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+F:\FAST WORK\THRID SEM\CONTACT-MANAGEMENT\CONTACT-MANAGEMENT.cpp(335): warning C4715: 'contact_tree::findRecursive': not all control paths return a value
+  CONTACT-MANAGEMENT.vcxproj -> F:\FAST WORK\THRID SEM\CONTACT-MANAGEMENT\x64\Debug\CONTACT-MANAGEMENT.exe
